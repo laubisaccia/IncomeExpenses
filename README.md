@@ -1,4 +1,4 @@
-# This is a project to practice Redux, React Redux
+# Redux, React Redux Project
 
 # Getting Started with Create React App
 
